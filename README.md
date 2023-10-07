@@ -1,4 +1,6 @@
 # Rask
-<center>![Screenshot 2023-10-07 at 19 58 35](https://github.com/RajendraPandit1/Rask/assets/75786029/5f89f7e0-c919-48cf-b859-bb9db2c53cb5)</center>
+<center>
+![Screenshot 2023-10-07 at 19 58 35](https://github.com/RajendraPandit1/Rask/assets/75786029/947fcc89-cdf4-4f13-be20-80e3becc8ee1)</center><br<
 Rask its an Java Application where the user save the task to solve / resolve with date. Thanks you !
+<br>
 
